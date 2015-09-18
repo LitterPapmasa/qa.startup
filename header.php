@@ -128,7 +128,7 @@ if (is_readable ($_SERVER ['DOCUMENT_ROOT']."/meta.csv")) {
                         <li><a href='<?= $path;?>course.php'><span>Курсы</span></a></li>
                         <li><a href='<?= $path;?>price.php'><span>Цены</span></a></li>
                         <li><a href='<?= $path;?>discount.php'><span>Акции</span></a></li>
-                        <li><a href='<?= $path;?>feedback.php'><span>Отзывы</span></a></li>
+                        <li><a href='<?= $path;?>feedback.php#page1'><span>Отзывы</span></a></li>
                         <li class='last'><a href='<?= $path;?>contacts.php'><span>Контакты</span></a></li>
                     </ul>
                 </div>

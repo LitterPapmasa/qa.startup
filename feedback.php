@@ -135,7 +135,7 @@
         <!-- ВЫВОД ОТЗЫВОВ HTML-->
 
         <div class="view-out">
-
+            
         </div>
     </div>
 </section>
