@@ -50,7 +50,7 @@ function MyStars($count){
 }    
 
 function dbConnect(){
-    $link  =  mysqli_connect("localhost","qastartup","ASDqwe123","qastartup");
+    $link  =  mysqli_connect("localhost","qauser",'P@$$word',"qastartup");
     $dateLang ="ru_RU";
         /* Проверка соединения */ 
         if (mysqli_connect_errno()) { 
