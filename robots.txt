@@ -1,0 +1,9 @@
+User-agent: *
+
+Disallow: /bootstrap/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /js/
+
+Host: qastartup.com.ua
